@@ -1,3 +1,15 @@
+
+
+### Screens
+![alt tag](https://github.com/mariobustosjmz/asigna2/blob/master/screens/1.png)
+![alt tag](https://github.com/mariobustosjmz/asigna2/blob/master/screens/2.png)
+![alt tag](https://github.com/mariobustosjmz/asigna2/blob/master/screens/3.png)
+![alt tag](https://github.com/mariobustosjmz/asigna2/blob/master/screens/4.png)
+![alt tag](https://github.com/mariobustosjmz/asigna2/blob/master/screens/5.png)
+![alt tag](https://github.com/mariobustosjmz/asigna2/blob/master/screens/6.png)
+
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
